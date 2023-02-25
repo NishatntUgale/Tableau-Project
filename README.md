@@ -1,2 +1,2 @@
 # Tableau-Project
-https://github.com/NishatntUgale/Tableau-Project/edit/main/README.md
+https://public.tableau.com/app/profile/nishant.ugale/viz/Project_16768307464590/Dashboard1?publish=yes
